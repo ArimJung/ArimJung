@@ -22,6 +22,7 @@
 <br>
 
 ## ✍️ Blog & Notion
+<p>✔️ 클릭 시 페이지로 이동합니다. </p>
 <a href="https://blog.naver.com/arim9905">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
     </a>
