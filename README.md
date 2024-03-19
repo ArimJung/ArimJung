@@ -8,7 +8,7 @@
 <br>
 
 ## 🏢 Career
-<p>✔️ (2023.01~2024.03) (주)유엑스플러스 엔진 반려동물 플랫폼 백엔드 개발</p>
+<p>✔️ (2023.01~2024.03) (주)유엑스플러스엔진 반려동물 플랫폼 백엔드 개발</p>
 <br>
 
 ## 🔨 Tech Stack
@@ -19,5 +19,15 @@
 #### ✔️ Front : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-0769AD?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black"> <img src="https://img.shields.io/badge/css-0082F0?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 #### ✔️ Collaboration: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 #### ✔️ Editor: <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white">
+<br>
 
+## ✍️ Blog & Notion
+<a href="https://blog.naver.com/arim9905">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
+    </a>
+<a href="https://platinum-tracker-3ed.notion.site/Jung-A-Rim-6777dd249e6c498392218cbf32db5452">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+    </a>
+
+<br>
 </div>
