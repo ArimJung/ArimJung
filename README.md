@@ -7,6 +7,9 @@
 <p>✔️ 안녕하세요, <b>Backend Engineer</b> 정아림입니다❗</p>
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddkfla20)](https://solved.ac/wjddkfla20/)
+
+
 ## 🏢 Career
 <p>✔️ (2023.01~2024.03) (주)유엑스플러스엔진 반려동물 플랫폼 백엔드 개발</p>
 <br>
